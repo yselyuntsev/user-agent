@@ -1,0 +1,11 @@
+export declare function isIE(): boolean;
+export declare function isEdge(): boolean;
+export declare function isFirefox(): boolean;
+export declare function isOpera(): boolean;
+export declare function isChrome(): boolean;
+export declare function isSafari(): boolean;
+export declare function isMobileIE(): boolean;
+export declare function isMobileFirefox(): boolean;
+export declare function isMobileOpera(): boolean;
+export declare function isMobileChrome(): boolean;
+export declare function isMobileSafari(): boolean;

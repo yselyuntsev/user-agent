@@ -1,0 +1,10 @@
+export declare function isIOS(): boolean;
+export declare function isAndroid(): boolean;
+export declare function isWindows(): boolean;
+export declare function isUnix(): boolean;
+export declare function isMac(): boolean;
+export declare function isLinux(): boolean;
+export declare function isBlackBerry(): boolean;
+export declare function isIPad(): boolean;
+export declare function isIPhone(): boolean;
+export declare function getIOSVersion(): number | null;
